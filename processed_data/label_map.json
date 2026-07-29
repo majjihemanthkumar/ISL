@@ -1,11 +1,14 @@
 {
-  "WANT": 0,
-  "WATER": 1,
-  "WEAR": 2,
-  "WELCOME": 3,
-  "WHAT": 4,
-  "WHERE": 5,
-  "WHO": 6,
-  "WORRY": 7,
-  "YOU": 8
+  "ABUSE": 0,
+  "AGREE": 1,
+  "ALOT": 2,
+  "WANT": 3,
+  "WATER": 4,
+  "WEAR": 5,
+  "WELCOME": 6,
+  "WHAT": 7,
+  "WHERE": 8,
+  "WHO": 9,
+  "WORRY": 10,
+  "YOU": 11
 }
